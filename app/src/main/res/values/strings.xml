@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MoltinDemo</string>
+
+    <string name="moltin_api_key" translatable="false">3ihCcsm3VtA6Ngeoms4BAfwAVptCZufFpL5Vjxkyj7</string>
+    <string name="login_successfully">Login Successfully</string>
+    <string name="login_fail">Login Fail</string>
+    <string name="not_login">Not Login</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="authentication_status">authentication status:</string>
+</resources>
